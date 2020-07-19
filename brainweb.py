@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri May 17 16:34:30 2019
+Created on May 2019
 
-@author: abm15
+@author: Abi Mehranian
+abolfazl.mehranian@kcl.ac.uk
 """
 import numpy as np
 from phantomlib import random_lesion, regrid, zero_pad
