@@ -4,7 +4,7 @@ pyhton scripts to generate PET-MR phantoms using either brain web phantoms or pa
 ## Reference
 https://doi.org/10.1109/TRPMS.2020.3004408
 
-# Example
+## Example
 see https://github.com/Abolfazl-Mehranian/PETMR-brain-phantoms/blob/master/create_brain_phantoms.ipynb
 
 <p align="center">
