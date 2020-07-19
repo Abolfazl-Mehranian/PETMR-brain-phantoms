@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon May 20 16:13:26 2019
+Created on April 2019
 
-@author: abm15
+@author: Abi Mehranian
+abolfazl.mehranian@kcl.ac.uk
 """
 import numpy as np
 import os
