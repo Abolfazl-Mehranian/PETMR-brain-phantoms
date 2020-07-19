@@ -1,4 +1,4 @@
-# PETMR-brain-phantoms
+## PETMR-brain-phantoms
 pyhton scripts to generate PET-MR phantoms using either brain web phantoms or patient T1-weighted MR images
 
 ## Reference
